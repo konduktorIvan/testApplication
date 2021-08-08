@@ -1,0 +1,7 @@
+binding: user.agent=safari
+Compiling module org.test.example.testapplication.TestApplication
+   Tracing compile failure path for type 'org.test.example.testapplication.client.ui.application.content.screen02.Screen02Component'
+      [ERROR] Errors in 'file:/C:/Users/phenom/Desktop/testApplication/testApplication-client/src/main/java/org/test/example/testapplication/client/ui/application/content/screen02/Screen02Component.java'
+         [ERROR] Line 26: Syntax error, insert "AssignmentOperator Expression" to complete Expression
+   [ERROR] Aborting compile due to errors in some input files
+[ERROR] Compiler returned false

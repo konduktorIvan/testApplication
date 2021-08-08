@@ -1,0 +1,11 @@
+binding: user.agent=safari
+Compiling module org.test.example.testapplication.TestApplication
+   Tracing compile failure path for type 'org.test.example.testapplication.client.ui.application.content.screen02.Screen02Component'
+      [ERROR] Errors in 'file:/C:/Users/phenom/Desktop/testApplication/testApplication-client/src/main/java/org/test/example/testapplication/client/ui/application/content/screen02/Screen02Component.java'
+         [ERROR] Line 39: No source code is available for type java.lang.Thread; did you forget to inherit a required module?
+   Tracing compile failure path for type 'org.test.example.testapplication.client.ui.application.content.screen02.Screen02Controller'
+      [ERROR] Errors in 'file:/C:/Users/phenom/Desktop/testApplication/testApplication-client/src/main/java/org/test/example/testapplication/client/ui/application/content/screen02/Screen02Controller.java'
+         [ERROR] Line 96: Unhandled exception type InterruptedException
+         [ERROR] Line 34: Unhandled exception type InterruptedException
+   [ERROR] Aborting compile due to errors in some input files
+[ERROR] Compiler returned false

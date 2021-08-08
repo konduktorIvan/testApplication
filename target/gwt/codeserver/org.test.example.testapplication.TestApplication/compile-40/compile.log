@@ -1,0 +1,13 @@
+binding: user.agent=safari
+Compiling module org.test.example.testapplication.TestApplication
+   Unification traversed 5439 fields and methods and 794 types. 9 are considered part of the current module and 515 had all of their fields and methods traversed.
+   Compiling 1 permutation
+      Compiling permutation 0...
+      Linking per-type JS with 9 new/changed types.
+      Source Maps Enabled
+   Compile of permutations succeeded
+   Compilation succeeded -- 3,415s
+Linking into C:\Users\phenom\Desktop\testApplication\target\gwt\codeserver\org.test.example.testapplication.TestApplication\compile-40\war\testApplication; Writing extras to C:\Users\phenom\Desktop\testApplication\target\gwt\codeserver\org.test.example.testapplication.TestApplication\compile-40\extras\testApplication
+   Link succeeded
+   Linking succeeded -- 1,549s
+5,440s total -- Compile completed

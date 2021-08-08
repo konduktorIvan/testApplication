@@ -1,0 +1,12 @@
+<module rename-to="testApplication">
+  <inherits name="com.github.nalukit.nalu.Nalu"/>
+  <inherits name="com.github.nalukit.nalu.plugin.elemental2.NaluPluginElemental2"/>
+  <inherits name="org.dominokit.domino.ui.DominoUI"/>
+  <inherits name="com.google.gwt.user.User"/>
+  <inherits name="com.github.nalukit.nalu.Nalu"/>
+  <inherits name="com.github.nalukit.nalu.plugin.elemental2.NaluPluginElemental2"/>
+  <inherits name="org.dominokit.domino.ui.DominoUI"/>
+  <entry-point class="org.test.example.testapplication.client.TestApplication"/>
+  <source path="client"/>
+  <source path="shared"/>
+</module>
